@@ -1,5 +1,5 @@
 # LivePerson Coding Challenge
-## ETS Candidate Test - Cat Sheiles 3 February 2022
+## ETS API conversation challenge - Cat Sheiles 3 February 2022
 
 Object of the challenge is to interface with the LivePerson API to initialise a conversation between the Agent and the Customer
 
